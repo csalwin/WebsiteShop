@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="local-websiteShop">
+    <serverData>
+      <paths name="local-websiteShop">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/" web="/WebsiteShop/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+
